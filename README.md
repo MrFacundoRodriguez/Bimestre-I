@@ -1,1 +1,7 @@
-# Bimestre-I
+![Silabus IT 1st Bimester 2024](https://github.com/MrFacundoRodriguez/Bimestre-I/assets/164930245/a0b5914e-bf80-45ae-a880-2c05ca8a0181)
+![Coming Soon (Poster)](https://github.com/MrFacundoRodriguez/Bimestre-I/assets/164930245/321264b1-6d9a-46c1-a86e-362200a714e5)
+![Opera_Captura_de_pantalla_2024-03-26_172455_github com](https://github.com/MrFacundoRodriguez/Bimestre-I/assets/164930245/72339221-7374-453f-bebb-554a8b6e1b18)
+![Black Box](https://github.com/MrFacundoRodriguez/Bimestre-I/assets/164930245/dcdde80e-693c-4f1d-a971-ae1838909708)
+![Solution Sheet 1 02](https://github.com/MrFacundoRodriguez/Bimestre-I/assets/164930245/67a151e2-1658-4b52-94b9-131f32d7ad05)
+[Gray Modern Digital Marketing Poster.zip](https://github.com/MrFacundoRodriguez/Bimestre-I/files/15427249/Gray.Modern.Digital.Marketing.Poster.zip)
+![Calculate the average of n numbers where n is entered by the user  ](https://github.com/MrFacundoRodriguez/Bimestre-I/assets/164930245/a2bf2008-6e15-4cb5-9d10-a5de20882937)
